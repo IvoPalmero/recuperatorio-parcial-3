@@ -1,0 +1,15 @@
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\bin\Debug\net8.0\BIbliotecaClases.deps.json
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\bin\Debug\net8.0\BIbliotecaClases.runtimeconfig.json
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\bin\Debug\net8.0\BIbliotecaClases.dll
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\bin\Debug\net8.0\BIbliotecaClases.pdb
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.csproj.AssemblyReference.cache
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.AssemblyInfoInputs.cache
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.AssemblyInfo.cs
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.sourcelink.json
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.dll
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\refint\BIbliotecaClases.dll
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.pdb
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\BIbliotecaClases.genruntimeconfig.cache
+C:\Users\ivopa\Desktop\Nueva carpeta\recuperatorio-parcial-3\BIbliotecaClases\BIbliotecaClases\obj\Debug\net8.0\ref\BIbliotecaClases.dll
